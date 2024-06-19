@@ -1,3 +1,3 @@
-# Prediksi-harga-rumah-semarang
+# House_Price_Prediction_Semarang
 Repository ini berisi project skripsi terkait prediksi harga rumah di Kota Semarang. Berikut merupakan link website deployment menggunakan streamlit:
-https://prediksi-harga-rumah-semarang.streamlit.app/ 
+https://house-price-prediction-semarang-city.streamlit.app/ 
