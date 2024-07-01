@@ -136,7 +136,13 @@ if test == "Kontak":
     """)
     
     st.markdown("""
-    **Nama**    : Septiadi 
+    **Nama**    : Muh. Chaerul
+    **Email**   : [Muh. Chaerul@gmail.com](mailto:chaerul.tahir@gmail.com)
+    """)
+
+
+    st.markdown("""
+    **Nama**    : Septiadi
     **Email**   : [septiadi@gmail.com](mailto:chaerul.tahir@gmail.com)
     """)
     
