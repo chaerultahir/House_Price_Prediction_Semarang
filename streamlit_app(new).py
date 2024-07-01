@@ -128,19 +128,13 @@ if test == "Prediksi":
 # Halaman Kontak
 
 if test == "Kontak":
-    st.subheader("Hai, mari terhubung! :wave:")
-    
+    st.subheader("Hai, mari terhubung denang Tim kami! :wave:")
+
     st.markdown("""
-    **Nama**    : Muh. Chaerul  
-    **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com) 
+    **Nama**    : Prabowo Danny Wicaksono 
+    **Email**   : [Prabowo Danny Wicaksono@gmail.com](mailto:chaerul.tahir@gmail.com)
     """)
     
-    st.markdown("""
-    **Nama**    : Muh. Chaerul
-    **Email**   : [Muh. Chaerul@gmail.com](mailto:chaerul.tahir@gmail.com)
-    """)
-
-
     st.markdown("""
     **Nama**    : Septiadi
     **Email**   : [septiadi@gmail.com](mailto:chaerul.tahir@gmail.com)
@@ -152,6 +146,6 @@ if test == "Kontak":
     """)
 
     st.markdown("""
-    **Nama**    : Prabowo Danny Wicaksono 
-    **Email**   : [Prabowo Danny Wicaksono@gmail.com](mailto:chaerul.tahir@gmail.com)
+    **Nama**    : Muh. Chaerul
+    **Email**   : [Muh. Chaerul@gmail.com](mailto:chaerul.tahir@gmail.com)
     """)
