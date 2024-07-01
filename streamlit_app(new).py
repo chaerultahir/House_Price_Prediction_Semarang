@@ -129,15 +129,23 @@ if test == "Prediksi":
 
 if test == "Kontak":
     st.subheader("Hai, mari terhubung! :wave:")
+    
     st.markdown("""
     **Nama**    : Muh. Chaerul  
-    **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com)
-
+    **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com) 
+    """)
+    
+    st.markdown("""
     **Nama**    : Septiadi 
     **Email**   : [septiadi@gmail.com](mailto:chaerul.tahir@gmail.com)
-
+    """)
+    
+    st.markdown("""
     **Nama**    : Asep Rusdiana 
     **Email**   : [Asep Rusdiana@gmail.com](mailto:chaerul.tahir@gmail.com)
-    
     """)
 
+    st.markdown("""
+    **Nama**    : Prabowo Danny Wicaksono 
+    **Email**   : [Prabowo Danny Wicaksono@gmail.com](mailto:chaerul.tahir@gmail.com)
+    """)
