@@ -62,7 +62,7 @@ if test == "Labelling":
 
     with col2:
         st.markdown("###### Variabel lokasi")
-        st.text("0 = Banyumanik, Semarang")
+        st.text("0 = Banyumanik, Jakarta Selatan")
         st.text("1 = Candisari, Semarang")
         st.text("2 = Gajah Mungkur, Semarang")
         st.text("3 = Gayamsari, Semarang")
@@ -73,12 +73,7 @@ if test == "Labelling":
         st.text("8 = Pedurungan, Semarang")
         st.text("9 = Semarang Barat, Semarang")
         st.text("10 = Semarang Selatan, Semarang")
-        st.text("11 = Semarang Tengah, Semarang")
-        st.text("12 = Semarang Timur, Semarang")
-        st.text("13 = Semarang Utara, Semarang")
-        st.text("14 = Tembalang, Semarang")
-        st.text("15 = Tugu, Semarang")
-        st.text("16 = Semarang lainnya")
+
 
 
 # Fungsi prediksi harga
