@@ -24,8 +24,8 @@ test = st.sidebar.radio("Menu", ["Beranda", "Data", "Labelling", "Prediksi", "Ko
 # Halaman Beranda
 if test == "Beranda":
     st.header("Halo Selamat Datang Semuanya :wave:")
-    st.markdown("#### Ini merupakan website yang dapat memprediksi harga rumah di Kota Semarang sesuai dengan kriteria yang diinginkan oleh calon pembeli.")
-    st.image('Peta Kota Semarang.png')
+    st.markdown("#### Ini merupakan website yang dapat memprediksi harga rumah di Kota Jakarta Selatan sesuai dengan kriteria yang diinginkan oleh calon pembeli.")
+    st.image('jakarta_selatan.png')
     st.markdown("#### Dengan adanya website ini, diharapkan dapat membantu para calon pembeli dalam menentukan harga rumah yang sesuai dan memenuhi kriteria rumah impiannya.")
     st.markdown("#### Jangan lupa untuk membuka 'Labelling' untuk mengetahui konversi tipe data ya :blush:")
     st.markdown("#### Selamat mencoba! :wave:")
@@ -33,10 +33,10 @@ if test == "Beranda":
 # Halaman Data
 if test == "Data":
     st.header("Data")
-    st.write("Berikut merupakan data yang digunakan dalam prediksi harga rumah di Kota Semarang.") 
+    st.write("Berikut merupakan data yang digunakan dalam prediksi harga rumah di Kota Jakarta Selatan.") 
     data = pd.read_csv("df_cleaning_web.csv")
     st.write(data)
-    st.write("Sumber Data : Rumah123.com (Kota Semarang) per Maret 2024")
+    st.write("Sumber Data : Rumah123.com (Kota Jakarta Selatan) per Maret 2024")
     st.markdown("""
     ###### Catatan untuk jenis_rumah:
     - **rumah**: rumah biasa
