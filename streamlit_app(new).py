@@ -34,7 +34,7 @@ if test == "Beranda":
 if test == "Data":
     st.header("Data")
     st.write("Berikut merupakan data yang digunakan dalam prediksi harga rumah di Kota Jakarta Selatan.") 
-    data = pd.read_csv("Data-harga-rumah-smg.csv")
+    data = pd.read_csv("df_cleaning_web.csv")
     st.write(data)
     st.write("Sumber Data : Rumah123.com (Kota Jakarta Selatan) per Maret 2024")
     st.markdown("""
