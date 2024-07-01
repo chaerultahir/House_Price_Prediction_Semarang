@@ -63,16 +63,16 @@ if test == "Labelling":
     with col2:
         st.markdown("###### Variabel lokasi")
         st.text("0 = Banyumanik, Jakarta Selatan")
-        st.text("1 = Candisari, Semarang")
-        st.text("2 = Gajah Mungkur, Semarang")
-        st.text("3 = Gayamsari, Semarang")
-        st.text("4 = Genuk, Semarang")
-        st.text("5 = Gunung Pati, Semarang")
-        st.text("6 = Mijen, Semarang")
-        st.text("7 = Ngaliyan, Semarang")
-        st.text("8 = Pedurungan, Semarang")
-        st.text("9 = Semarang Barat, Semarang")
-        st.text("10 = Semarang Selatan, Semarang")
+        st.text("1 = Candisari, Jakarta Selatan")
+        st.text("2 = Gajah Mungkur, Jakarta Selatan")
+        st.text("3 = Gayamsari, Jakarta Selatan")
+        st.text("4 = Genuk, Jakarta Selatan")
+        st.text("5 = Gunung Pati, Jakarta Selatan")
+        st.text("6 = Mijen, Jakarta Selatan")
+        st.text("7 = Ngaliyan, Jakarta Selatan")
+        st.text("8 = Pedurungan, Jakarta Selatan")
+        st.text("9 = Semarang Barat, Jakarta Selatan")
+        st.text("10 = Semarang Selatan, Jakarta Selatan")
 
 
 
