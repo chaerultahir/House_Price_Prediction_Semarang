@@ -128,7 +128,7 @@ if test == "Prediksi":
 # Halaman Kontak
 
 if test == "Kontak":
-    st.subheader("Hai, mari terhubung denang Tim kami! :wave:")
+    st.subheader("Hai, mari terhubung dengan Tim kami! :wave:")
 
     st.markdown("""
     **Nama**    : Prabowo Danny Wicaksono 
