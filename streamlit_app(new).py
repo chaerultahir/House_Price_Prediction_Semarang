@@ -130,9 +130,14 @@ if test == "Prediksi":
 if test == "Kontak":
     st.subheader("Hai, mari terhubung! :wave:")
     st.markdown("""
-    **Nama**    : Fransisca Mulya Sari  
-    **LinkedIn**: [https://www.linkedin.com/in/fransisca-mulya-sari-a51853260/](https://www.linkedin.com/in/fransisca-mulya-sari-a51853260/)  
-    **Github**  : [https://github.com/FransiscaaMS](https://github.com/FransiscaaMS)  
-    **Email**   : [fransiscaams@gmail.com](mailto:fransiscaams@gmail.com)  
+    **Nama**    : Muh. Chaerul  
+    **Email**   : [chaerul.tahir@gmail.com](mailto:chaerul.tahir@gmail.com)
+
+    **Nama**    : Septiadi 
+    **Email**   : [septiadi@gmail.com](mailto:chaerul.tahir@gmail.com)
+
+    **Nama**    : Asep Rusdiana 
+    **Email**   : [Asep Rusdiana@gmail.com](mailto:chaerul.tahir@gmail.com)
+    
     """)
 
